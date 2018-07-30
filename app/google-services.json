@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "293989762196",
+    "firebase_url": "https://endless-datum-204212.firebaseio.com",
+    "project_id": "endless-datum-204212",
+    "storage_bucket": "endless-datum-204212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293989762196:android:e0155f66e0a6e6d0",
+        "android_client_info": {
+          "package_name": "com.example.dell.alfachatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293989762196-aao5lvirf8k19km0mv863ldq9fir1ak7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEJTTv5Y3ZK5-4SdBvPG0Mns5I5_HvTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293989762196:android:a0d0f1103a99b804",
+        "android_client_info": {
+          "package_name": "com.example.dell.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293989762196-aao5lvirf8k19km0mv863ldq9fir1ak7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEJTTv5Y3ZK5-4SdBvPG0Mns5I5_HvTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
